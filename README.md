@@ -1,2 +1,3 @@
 # shi
-my new '
+THIS IS MY FIRST GIT. 
+AUTHOR-SHIVAM YADAV
